@@ -9,7 +9,7 @@ terraform {
     # manually, uncomment and fill in the config below.
 
      bucket         = "clem-state-bucket"
-     key            = "mysqldb-stage/terraform.tfstate"
+     key            = "mysqldb-prod/terraform.tfstate"
      region         = "us-east-1"
      dynamodb_table = "clem-dynamodb"
      encrypt        = true
@@ -25,7 +25,7 @@ provider "aws" {
 }
 
 resource "aws_db_instance" "example" {
-  identifier_prefix   = "terraform-stage"
+  identifier_prefix   = "terraform-prod"
   engine              = "mysql"
   allocated_storage   = 10
   instance_class      = "db.t2.micro"
