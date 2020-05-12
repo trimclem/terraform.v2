@@ -1,0 +1,34 @@
+---
+- hosts: localhost
+  connection: local
+  gather_facts: no
+  vars_files:
+    - keys.yml
+  tasks:
+    - name: Create new IAM user
+      iam:
+        aws_access_key: "{{ AWS_ACCESS_KEY_ID }}"
+        aws_secret_key: "{{ AWS_SECRET_ACCESS_KEY }}"
+        ec2_region: "{{ AWS_REGION }}"
+        iam_type: user
+        state: present
+        name: ansible
+        #password: temp123demo!
+        #access_key_state: create
+    - name: Create new group with policy and add user
+      iam_group:
+        aws_access_key: "{{ AWS_ACCESS_KEY_ID }}"
+        aws_secret_key: "{{ AWS_SECRET_ACCESS_KEY }}"
+        ec2_region: "{{ AWS_REGION }}"
+        name: ansiblegroup
+        managed_policy:
+          - arn:aws:iam::aws:policy/AmazonEC2FullAccess 
+          - arn:aws:iam::aws:policy/AmazonS3FullAccess
+          - arn:aws:iam::aws:policy/AmazonDynamoDBFullAccess
+          - arn:aws:iam::aws:policy/AmazonRDSFullAccess
+          - arn:aws:iam::aws:policy/CloudWatchFullAccess
+          - arn:aws:iam::aws:policy/IAMFullAccess
+        users:
+          - ansible
+        state: present
+...
