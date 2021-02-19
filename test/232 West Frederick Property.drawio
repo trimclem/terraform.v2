@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T17:58:50.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="wVbIkR4K4z3mCSIQHE6F" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T18:10:14.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="c8W1ZpVDHDYLWCq7S8Ui" version="14.4.2" type="github">
   <diagram id="_mL21G-IwM7lMuCUSppO" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,13 +20,13 @@
           <mxGeometry x="200" y="630" width="370" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X0ODO6UieVCEBn2gRTgO-7" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="315.5" y="312.5" width="565" height="20" as="geometry" />
+          <mxGeometry x="319.5" y="312.5" width="565" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X0ODO6UieVCEBn2gRTgO-8" value="89 ft frontage on West Frederick ST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="650" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X0ODO6UieVCEBn2gRTgO-9" value="168 ft frontage North Washington ST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="515" y="390" width="210" height="20" as="geometry" />
+          <mxGeometry x="520" y="340" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X0ODO6UieVCEBn2gRTgO-11" value="31.5 &#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="220" width="40" height="20" as="geometry" />
@@ -49,14 +49,41 @@
         <mxCell id="X0ODO6UieVCEBn2gRTgO-17" value="105&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="410" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="X0ODO6UieVCEBn2gRTgO-18" value="234 W Frederick" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-18" value="&lt;b&gt;&lt;i&gt;234 W Frederick ST&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="570" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="X0ODO6UieVCEBn2gRTgO-19" value="232 W Frederick" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-19" value="&lt;b&gt;&lt;i&gt;232 W Frederick&amp;nbsp; ST&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="570" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="X0ODO6UieVCEBn2gRTgO-20" value="234 W Frederick" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="230" width="120" height="20" as="geometry" />
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-20" value="&lt;b&gt;&lt;i&gt;17 N. Washington ST&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="210" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-21" value="31.5 &#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-22" value="31.5 &#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="103" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-23" value="4,500 Sq Ft." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-24" value="&lt;b&gt;&lt;i&gt;15 N. Washington ST&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="103" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-28" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-29" value="4,500 Sq Ft." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="360" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-30" value="4,500 Sq Ft." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="295" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-31" value="2,803.5 Sq Ft." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-33" value="2,803.5 Sq Ft." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="262" y="103" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
