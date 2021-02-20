@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T15:14:40.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="QWTDoES--D9oRgCLhDyX" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T15:38:26.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="a6utdL3Q_YBZ4i1GBq0w" version="14.4.2" type="github">
   <diagram id="_mL21G-IwM7lMuCUSppO" name="Page-1">
     <mxGraphModel dx="1371" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry x="235" y="400" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X0ODO6UieVCEBn2gRTgO-30" value="487 Sq Ft." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="295" width="90" height="20" as="geometry" />
+          <mxGeometry x="425" y="287" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X0ODO6UieVCEBn2gRTgO-31" value="2,803.5 Sq Ft." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="210" width="90" height="20" as="geometry" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="X0ODO6UieVCEBn2gRTgO-38" value="15 N. Washington - 2,613 Sq Ft.&lt;br&gt;17 N. Washington - 2,802 Sq Ft.&lt;br&gt;232 W. Frederick - 4,725 Sq Ft.&lt;br&gt;234 W. Frederick - 4,500 Sq Ft" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="210" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X0ODO6UieVCEBn2gRTgO-39" value="&lt;b&gt;&lt;i&gt;Holliday Alley&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="403" y="303" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
